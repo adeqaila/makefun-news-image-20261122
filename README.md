@@ -1,5 +1,9 @@
 # The World in One Day — Sunday 22 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
+[![Rank](https://make.fun/badge/news-image-20261122/adeqaila/makefun-news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![Reward](https://make.fun/badge/news-image-20261122/adeqaila/makefun-news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+
 Entry for make.fun bounty **news-image-20261122**: "Sum up 22 November's
 world news in one image". $100, top 50 paid (1st $20). Deadline Tue 24 Nov
 2026 00:00 UTC.
